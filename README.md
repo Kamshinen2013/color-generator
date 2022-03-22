@@ -1,2 +1,3 @@
-# color-generator
-For generating colors with a functionality to copy HEX values and paste
+#### Values JS
+
+[values.js](https://github.com/noeldelgado/values.js)
